@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": "Resource Pack của Dâu | Bài 1",
+    "pack_format": 97.1,
+    "min_format": 1,
+    "max_format": 97.1,
+    "supported_formats": [1, 97.1]
+  }
+}
